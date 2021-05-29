@@ -17,7 +17,7 @@ namespace DNR
                 \/                        \/      \/
                   .NET Reactor 6.7.0.0 Strings
                  By https://github.com/Hussaryn
-                      Credits HoLLy-HaCKeR
+                      Credits : HoLLy-HaCKeR
          
         ";
 
